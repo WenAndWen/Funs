@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Funs+</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="activity_main_drawer_item1">个人资料</string>
+    <string name="activity_main_drawer_item2">人脉</string>
+    <string name="activity_main_drawer_item3">收藏</string>
+    <string name="activity_main_drawer_item4">设置</string>
+    <string name="activity_main_drawer_item5">发送反馈</string>
+    <string name="activity_main_drawer_item6">帮助</string>
+    <string name="activity_main_drawer_item7">推荐</string>
+    <string name="activity_main_drawer_item8">关于</string>
+    <string name="popupMenuItem_1">添加账号</string>
+    <string name="popupMenuItem_2">移除当前账号</string>
+    <string name="popupMenuItem_3">管理账号</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
